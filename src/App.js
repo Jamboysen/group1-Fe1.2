@@ -9,7 +9,7 @@ function App() {
       <Link to="/RyojiBernardo" className="nav-item">Ryoji Bernardo</Link>
     </nav>
     <Routes>
-      <Route path="/RyojiBernardo" element={<Hero name="Ryoji " SN="2021107273"/>} />
+      <Route path="/RyojiBernardo" element={<Hero name="Ryoji Bernardo" SN="2021107273"/>} />
     </Routes>
   </div>
   );
